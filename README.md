@@ -2,4 +2,4 @@
 
 <h1>BICTIA<h1/>
 
-Este repositorio contiene los archivos de práctica de variables, funciones y condicionales con Javascript.
+<h5>Este repositorio contiene los archivos de práctica de variables, funciones y condicionales con Javascript.</h5>
